@@ -36,8 +36,7 @@ I'm a passionate front-end developer with over 2+ years of hands-on experience i
 
 ## 🚀 Featured Projects
 
-- **🎓 Pickup LMS** – Angular graduation platform for students & instructors  
-  🔗 [Live Site](https://pickup-chi.vercel.app)
+- **🎓 Pickup LMS** – Angular graduation platform for students & instructors    ==> 🔗 [Live Site](https://pickup-chi.vercel.app)
 
 - **🚗 Mourad Motors** – Car dealership website with filtering and Arabic UI  
   🔗 [Live Site](https://mourad-motors.com/)
