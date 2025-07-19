@@ -36,28 +36,23 @@ I'm a passionate front-end developer with over 2+ years of hands-on experience i
 
 ## 🚀 Featured Projects
 
-- **🎓 Pickup LMS** – Angular graduation platform for students & instructors    ==> 🔗 [Live Site](https://pickup-chi.vercel.app)
+- **🎓 Pickup LMS** – Angular graduation platform for students & instructors                        🔗 [Live Site](https://pickup-chi.vercel.app)
 
-- **🚗 Mourad Motors** – Car dealership website with filtering and Arabic UI  
-  🔗 [Live Site](https://mourad-motors.com/)
+- **🩺 My Clinic System ** – Angular graduation platform for Doctor & assistants & Patient.        🔗 [Live Site](https://clinicv1.vercel.app)
 
-- **📰 El-Wafedeen News Portal** – Multilingual news site for Menoufia University  
-  🔗 [Live Site](http://stage.menofia.edu.eg/)
+- **🚗 Mourad Motors** – Car dealership website with filtering and Arabic UI                       🔗 [Live Site](https://mourad-motors.com/)
 
-- **🏥 El-Tayseer Medical Center** – HTML/CSS multilingual medical website  
-  🔗 [Live Site](https://eltayseermidacalbymoshamed.netlify.app/)
+- **📰 El-Wafedeen News Portal** – Multilingual news site for Menoufia University                  🔗 [Live Site](http://stage.menofia.edu.eg/)
 
-- **🛒 E-Store** – Angular-based modern e-commerce platform  
-  🔗 [Live Site](https://full-stack-e-commerce-lilac.vercel.app/home)
+- **🏥 El-Tayseer Medical Center** – HTML/CSS multilingual medical website                        🔗 [Live Site](https://eltayseermidacalbymoshamed.netlify.app/)
 
-- **📊 E-Store Dashboard** – Admin dashboard in Angular + Bootstrap  
-  🔗 [Live Demo](https://dashboed-e-commerce.vercel.app/dashbords/dashbord)
+- **🛒 E-Store** – Angular-based modern e-commerce platform                                       🔗 [Live Site](https://full-stack-e-commerce-lilac.vercel.app/home)
 
-- **🏢 Altromeda Landing Page** – Angular landing page with chatbot  
-  🔗 [Live Site](https://altromeda.vercel.app/)
+- **📊 E-Store Dashboard** – Admin dashboard in Angular + Bootstrap                               🔗 [Live Demo](https://dashboed-e-commerce.vercel.app/dashbords/dashbord)
 
-- **📚 Mafhoom Education** – Education platform using Angular  
-  🔗 [Live Site](https://discover%20limitless%20learning%20with%20our%20reactjs-powered%20platform.%20innovative,%20flexible,%20and%20user-friendly,%20it%20revolutionizes%20online%20education./)
+- **🏢 Altromeda Landing Page** – Angular landing page with chatbot                              🔗 [Live Site](https://altromeda.vercel.app/)
+
+- **📚 Mafhoom Education** – Education platform using Angular                                    🔗 [Live Site](https://discover%20limitless%20learning%20with%20our%20reactjs-powered%20platform.%20innovative,%20flexible,%20and%20user-friendly,%20it%20revolutionizes%20online%20education./)
 
 ---
 ## 🛠️ Tech Stack
