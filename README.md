@@ -1,24 +1,109 @@
-# 💫 About Me:
-👾My name is Mostafa Hamed<br>🦾Front- End Developer<br>💡 MEAN Stack Developer<br>📉  MERN Stack Developer
+<h1 align="center">👋 Hi, I'm Mostafa Abd Elsalam Hamed</h1>
 
+<p align="center">
+  🚀 Mid-Level Front-End Engineer | Angular & React Enthusiast | UI/UX Optimizer
+</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/engmostafahamed) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mostafa7amed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hamed300) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mostafa7ahmed&theme=moltack&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mostafa7ahmed&limit=5&theme=bear&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Mostafa7ahmed"><img src="https://img.shields.io/badge/GitHub-Mostafa7ahmed-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/mostafa-hamed300/"><img src="https://img.shields.io/badge/LinkedIn-mostafa--hamed-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mostafahamed3003@gmail.com"><img src="https://img.shields.io/badge/Gmail-MostafaHamed-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://portfoliomostafa-hamed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mostafa7ahmed&icon=5&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a passionate front-end developer with over 2+ years of hands-on experience in:
+
+- 🌐 Angular 16–18, React.js, JavaScript/TypeScript
+- 🎯 UI/UX optimization, responsive web design
+- 🤝 Collaborating with cross-functional teams to build high-quality user experiences
+
+---
+
+## 💼 Professional Experience
+
+- **Altromeda** – Front-End Developer (Remote) — _June 2025 – Present_
+- **A Plus** – Front-End Developer (Remote) — _April 2025 – Present_
+- **Sintac Code** – React Developer — _June 2023 – April 2024_
+- **Error Company** – Front-End Intern — _Feb 2023 – July 2023_
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 [Pickup LMS](https://pickup-chi.vercel.app/chat)
+> A full learning platform built in Angular for students and instructors.
+
+- 👨‍🎓 Students: Enroll, pay, attend sessions, chat, take quizzes, to-do list
+- 👩‍🏫 Instructors: Create courses, manage enrollments, track profit, quizzes, live sessions
+
+---
+
+### 🚗 [Mourad Motors](https://mourad-motors.com/)
+> Car dealership website built in Angular with filtering, responsive design, and Arabic support.
+
+---
+
+### 🌍 [El-Wafedeen News Portal](http://stage.menofia.edu.eg/)
+> A multilingual university news platform in Angular supporting 11+ languages with flag switcher.
+
+---
+
+### 🏥 [El-Tayseer Medical Center](https://eltayseermidacalbymoshamed.netlify.app/)
+> HTML, CSS, JavaScript medical center site with appointment booking and responsive design.
+
+---
+
+### 🛒 [E-Commerce Website](https://full-stack-e-commerce-lilac.vercel.app/home)
+> Angular-based e-store with cart, banners, Arabic UI, and product listing.
+
+---
+
+### 📊 [E-Store Dashboard](https://dashboed-e-commerce.vercel.app/dashbords/dashbord)
+> Admin dashboard built with Angular, Bootstrap, and responsive design.
+
+---
+
+### 💬 [Altromeda Company Website](https://altromeda.vercel.app/)
+> Landing page with chatbot, project sections, and modern UI in Angular.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- Angular (v16–18), React.js, HTML5, CSS3, Tailwind, Bootstrap, JavaScript ES6+, TypeScript
+
+**State Management & UI Libraries:**
+- Redux, Redux Toolkit, NGXS, NGRX, Angular Material, NG Prime, NG Zorro, PrimeNG
+
+**Backend Basics:**
+- Node.js, Express.js, MongoDB, SQL
+
+**Tools & Others:**
+- Git, GitHub, Figma, REST APIs, OOP, Design Patterns
+
+---
+
+## 🧠 Soft Skills
+
+- Problem Solving
+- Work Under Pressure
+- Team Player & Good Communication
+- Strong Commitment
+
+---
+
+## 📫 Contact Me
+
+- 📞 Phone: 01030588154
+- 📧 Email: [mostafahamed3003@gmail.com](mailto:mostafahamed3003@gmail.com)
+- 🌍 Portfolio: [portfoliomostafa-hamed.vercel.app](https://portfoliomostafa-hamed.vercel.app/)
+
+---
+
+> “Always pushing the limits to deliver better user experiences 🚀”
+
