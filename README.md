@@ -1,9 +1,11 @@
 <h1 align="center">👋 Hi, I'm Mostafa Abd Elsalam Hamed</h1>
 
+<br/>
 <p align="center">
-  🚀 Mid-Level Front-End Engineer | Angular & React Enthusiast | UI/UX Optimizer
+  <b>🚀 Mid-Level Front-End Engineer | Angular & React Enthusiast | UI/UX Optimizer</b>
 </p>
 
+<br/>
 <p align="center">
   <a href="https://github.com/Mostafa7ahmed"><img src="https://img.shields.io/badge/GitHub-Mostafa7ahmed-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/mostafa-hamed300/"><img src="https://img.shields.io/badge/LinkedIn-mostafa--hamed-0077B5?style=for-the-badge&logo=linkedin" /></a>
