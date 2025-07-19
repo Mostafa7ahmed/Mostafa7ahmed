@@ -1,14 +1,13 @@
 <h1 align="center">👋 Hi, I'm Mostafa Abd Elsalam Hamed</h1>
 
 <br/>
-<br/>
 
-<br/>
 
 
 <p align="center">
   🚀 Front-End Engineer | Angular & React Developer | Passionate about UI/UX
 </p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/Mostafa7ahmed"><img src="https://img.shields.io/badge/GitHub-Mostafa7ahmed-181717?style=for-the-badge&logo=github" /></a>
