@@ -38,7 +38,7 @@ I'm a passionate front-end developer with over 2+ years of hands-on experience i
 
 - **🎓 Pickup LMS** – Angular graduation platform for students & instructors                        🔗 [Live Site](https://pickup-chi.vercel.app)
 
-- **🩺 My Clinic System ** – Angular graduation platform for Doctor & assistants & Patient.        🔗 [Live Site](https://clinicv1.vercel.app)
+- **🩺 My Clinic System** – Angular graduation platform for Doctor & assistants & Patient.        🔗 [Live Site](https://clinicv1.vercel.app)
 
 - **🚗 Mourad Motors** – Car dealership website with filtering and Arabic UI                       🔗 [Live Site](https://mourad-motors.com/)
 
