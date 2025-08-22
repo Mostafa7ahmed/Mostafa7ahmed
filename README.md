@@ -19,7 +19,7 @@
 
 I'm a passionate front-end developer with over 2+ years of hands-on experience in:
 
-- 🌐 Angular 16–18, React.js, JavaScript/TypeScript
+- 🌐 Angular 16–20, React.js, JavaScript/TypeScript
 - 🎯 UI/UX optimization, responsive web design
 - 🤝 Collaborating with cross-functional teams to build high-quality user experiences
 
